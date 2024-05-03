@@ -10,7 +10,7 @@ import org.junit.Test;
 public class DaniTest {
 
 	
-    Dani dani = new Dani("Danielle");
+    Dani dani = new Dani("Daniel");
 
     @Test
     public void testGetName() {
